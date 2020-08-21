@@ -14,6 +14,16 @@ So you reach here and want to know more about me, codos!👏:
 - 🥅 2020 Goals: Learn more about C programming language
 - ⚡ Fun fact: I love to draw and play video games
 -->
+
+<img src="https://img.shields.io/badge/spotify-Lil_Naz-1DB954?style=flat-square&logo=spotify&logoColor=white">
+
+ [![Spotify](https://novatorem.na93r.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ylestyy8su7ioi94k0uxrrjro?si=NS4PT3iuTo-3LXtlyjT8bQ)
+
+  
+
+
+<hr>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

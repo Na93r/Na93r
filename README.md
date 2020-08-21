@@ -15,10 +15,10 @@ So you reach here and want to know more about me, codos!👏:
 - ⚡ Fun fact: I love to draw and play video games
 -->
 
-<img src="https://img.shields.io/badge/spotify-Lil_Naz-1DB954?style=flat-square&logo=spotify&logoColor=white">
 
+### Now listening 🎧
  [![Spotify](https://novatorem.na93r.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ylestyy8su7ioi94k0uxrrjro?si=NS4PT3iuTo-3LXtlyjT8bQ)
-
+<br><img src="https://img.shields.io/badge/spotify-Lil_Naz-1DB954?style=flat-square&logo=spotify&logoColor=white">
   
 
 

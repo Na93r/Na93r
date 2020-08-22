@@ -3,7 +3,7 @@
 <!--
 **Na93r/Na93r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-So you reach here and want to know more about me, codos!👏:
+So you reach here and want to copy something, go ahead!😉:
 ## I'm a Electrical Engineer student and Beginner Programmer!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning <img height="20" width="20" src="https://img.shields.io/badge/%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -15,11 +15,19 @@ So you reach here and want to know more about me, codos!👏:
 - ⚡ Fun fact: I love to draw and play video games
 -->
 
-
 ### Now listening 🎧
- [![Spotify](https://novatorem.na93r.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ylestyy8su7ioi94k0uxrrjro?si=NS4PT3iuTo-3LXtlyjT8bQ)
-<br><img src="https://img.shields.io/badge/spotify-Lil_Naz-1DB954?style=flat-square&logo=spotify&logoColor=white">
+<table border="solid green 1px" width="100%"> 
   
+  <tr>
+ <td></td>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.na93r.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ylestyy8su7ioi94k0uxrrjro?si=NS4PT3iuTo-3LXtlyjT8bQ)
+<br><img src="https://img.shields.io/badge/spotify-Lil_Naz-1DB954?style=flat-square&logo=spotify&logoColor=white">
+  </td>
+  <td></td>
+  </table>
+
   <p align="center">
   <br>
  <b>Visitor Count</b><br>

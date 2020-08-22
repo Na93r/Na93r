@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋 </h3>
 
 <!--
 **Na93r/Na93r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +20,12 @@ So you reach here and want to know more about me, codos!👏:
  [![Spotify](https://novatorem.na93r.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ylestyy8su7ioi94k0uxrrjro?si=NS4PT3iuTo-3LXtlyjT8bQ)
 <br><img src="https://img.shields.io/badge/spotify-Lil_Naz-1DB954?style=flat-square&logo=spotify&logoColor=white">
   
-
-
+  <p align="center">
+  <br>
+ <b>Visitor Count</b><br>
+  <img src="https://profile-counter.glitch.me/na93r/count.svg" alt="Visitor Count"/>
+</p>
+<br>
 <hr>
 
 ### Languages and Tools I Use:

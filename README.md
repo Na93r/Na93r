@@ -16,16 +16,16 @@ So you reach here and want to copy something, go ahead!😉:
 -->
 
 ### Now listening 🎧
-<table border="solid green 1px" width="100%"> 
+<table width="100%"> 
   
   <tr>
- <td></td>
-  <td width="50%">
+ 
+  <td width="70%">
       
 &nbsp; <br> [![Spotify](https://novatorem.na93r.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ylestyy8su7ioi94k0uxrrjro?si=NS4PT3iuTo-3LXtlyjT8bQ)
 <br><img src="https://img.shields.io/badge/spotify-Lil_Naz-1DB954?style=flat-square&logo=spotify&logoColor=white">
   </td>
-  <td></td>
+ 
   </table>
 
   <p align="center">

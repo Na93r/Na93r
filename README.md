@@ -71,6 +71,9 @@ So you reach here and want to copy something, go ahead!😉:
 <br>
 <img src="https://wakatime.com/share/@be83b6f2-4a85-4ecb-8693-b72f74ac8e7d/f66d17a3-3d24-4dca-b2a7-3afd248f731b.svg" height="400" width="600">
   
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 </details>
 
 <details>

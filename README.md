@@ -59,8 +59,8 @@ So you reach here and want to copy something, go ahead!😉:
 [![Top Langs](https://github-readme-stats.na93r.vercel.app/api/top-langs/?username=Na93r&layout=compact)](https://github.com/na93r)
 ### How to reach me:
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />][linkedin]
+[<img align="left" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 <br>
 
 
@@ -71,7 +71,7 @@ So you reach here and want to copy something, go ahead!😉:
 <br>
 <img src="https://wakatime.com/share/@be83b6f2-4a85-4ecb-8693-b72f74ac8e7d/f66d17a3-3d24-4dca-b2a7-3afd248f731b.svg" height="400" width="600">
   
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
   
 </details>

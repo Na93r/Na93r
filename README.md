@@ -56,7 +56,6 @@ So you reach here and want to copy something, go ahead!😉:
 
 ---
 
-[![Top Langs](https://github-readme-stats.na93r.vercel.app/api/top-langs/?username=Na93r&layout=compact)](https://github.com/na93r)
 ### How to reach me:
 
 [<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />][linkedin]
@@ -64,10 +63,6 @@ So you reach here and want to copy something, go ahead!😉:
 <br>
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
-<img align="left" src="https://github-readme-stats.na93r.vercel.app/api?username=Na93r&show_icons=true&hide_border=true" />
-</details>
 
 [instagram]: https://instagram.com/na93r_
 [linkedin]:https://www.linkedin.com/in/nasser-malam-81a7a4139/

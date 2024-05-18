@@ -55,14 +55,3 @@ So you reach here and want to copy something, go ahead!😉:
 <br>
 
 ---
-
-### How to reach me:
-
-[<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />][linkedin]
-[<img align="left" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
-<br>
-
-
-
-[instagram]: https://instagram.com/na93r_
-[linkedin]:https://www.linkedin.com/in/nasser-malam-81a7a4139/

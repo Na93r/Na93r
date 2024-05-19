@@ -22,8 +22,8 @@ So you reach here and want to copy something, go ahead!😉:
  
   <td width="70%">
       
-&nbsp; <br> [![Spotify](https://novatorem.na93r.vercel.app/api/spotify-playing)](https://open.spotify.com/user/ylestyy8su7ioi94k0uxrrjro?si=NS4PT3iuTo-3LXtlyjT8bQ)
-<br><img src="https://img.shields.io/badge/spotify-Lil_Naz-1DB954?style=flat-square&logo=spotify&logoColor=white">
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+<br><img src="https://img.shields.io/badge/spotify-MALM-1DB954?style=flat-square&logo=spotify&logoColor=white">
   </td>
  
   </table>

@@ -1,24 +1,18 @@
-<h3 align="center">Hi there 👋</h3>
+<div align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+MALM" alt="Typing SVG" />
 
-### Now listening 🎧
+</div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ylestyy8su7ioi94k0uxrrjro&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=1)](https://spotify-github-profile.vercel.app/api/view?uid=ylestyy8su7ioi94k0uxrrjro&redirect=true)
+---
 
-> **One-time setup:** visit [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app) and log in with your Spotify account to activate the widget above.
+### 🎧 Now Listening
 
-<br>
+[![Spotify](https://img.shields.io/badge/Spotify-MALM-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ylestyy8su7ioi94k0uxrrjro)
 
-### GitHub Stats
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Na93r&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Na93r&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-<br>
-
-### Tools & Technologies
+### 🛠 Tools & Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -28,9 +22,15 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<br>
+---
 
-### Coding Activity
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Na93r&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Na93r)
+
+---
+
+### ⏱ Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
